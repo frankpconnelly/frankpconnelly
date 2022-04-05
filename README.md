@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @frankpconnelly
 - 👀 I’m interested in learning HTML, CSS, JavaScript, and eventually Python!
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 You can reach me at frankpconnelly@gmail.com. 
 
