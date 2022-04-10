@@ -1,0 +1,70 @@
+/*Hey! Remember when I said comments look different in each language? Well, this is what they look like in CSS!*/
+
+/*Everything in this CSS (Cascading Style Sheets) file is all foofoo pretty stuff. You don't need any of this; it just makes the web page look nicer.*/
+
+/*If you want, try getting rid of all this CSS stuff. You'll see what the page looks like without the fancy junk.*/
+
+/*Anyway... on we go to the CSS code.*/
+
+body {
+    background-color: #66bef8;
+    font-family: Lato;
+    color: white;
+  }
+  
+  h1 {
+    text-align: center;
+    font-weight: 300;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  div {
+    font-weight:500;
+    text-align: center;
+  }
+  
+  p {
+    line-height:2;
+    text-align: center;
+    font-size:18px;
+    font-weight: 300;
+    color:black;
+  }
+  
+  .btn {
+    outline: none;
+    border: none;
+    cursor: pointer; /*As I hover over button, cursor changes into a white-gloved cartoon hand.*/
+    display: block;
+    position: relative;
+    background-color: #0099ff; 
+    font-size: 16px;
+    font-weight: 300px;
+    color: white;
+    text-transform: uppercase; /*Makes all text uppercase, no matter what you typed.*/ 
+    letter-spacing: 2px; /*Adds a couple of pixels of spacing between each letter.*/
+    width: 30em; /*Width is static*/
+    padding: 15px 0px; /*Padding is dependent upon the amount of text in the button. To keep the width the same on each button, I declared width as 30em, instead of declaring a padding.*/
+    margin: 0 auto; /*Centers the button.*/
+    border-radius: 20px; /*Rounds the borders.*/
+    box-shadow: 0 6px #007acc /*x-offset y-offset color*/
+  }
+  
+  /*^This is the base state of the button. Now, we will manipulate it based on its current state.*/
+  
+  .btn:hover {
+    box-shadow: 0 4px #007acc; /*Reduces the shadow by 2px.*/
+    top: 2px; /*Moves the top of the button down 2px.*/
+  }
+  
+  .btn:active {
+    box-shadow: 0 0 #007acc; /*Could also say box-shadow: none;*/
+    top: 6px; /*Moves the top of the button down 4 more px, to 6px.*/
+  }
+  
+  ^/*It's better to use the class of btn rather than just "button:hover" because we might have other buttons on the page that we want to style differently. We could also use "#btn" if we had written <button id="btn" in our HTML code, but since we used "<button class="btn"", we use the dot "." to reference it. Remember, "." is class, "#" is id.*/
+  
+  
