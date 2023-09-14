@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @frankpconnelly
-- 👀 I’m interested in continuing to master HTML, CSS, JavaScript, while learning Java, Python, C#, C, and more.
+- 👀 I’m interested in continuing to master HTML, CSS, JavaScript, and React on the frontend, and Node.JS, MongoDB, and Express on the backend. 
 - 🌱 I’m currently proficient in HTML, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on anything and everything!
+- 💞️ I’m looking to collaborate on anything and everything! Wanna be my mentor? I'm your guy!
 - 📫 You can reach me at frankpconnelly@gmail.com. 
 
 <!---
