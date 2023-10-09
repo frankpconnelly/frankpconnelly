@@ -1,8 +1,8 @@
-- 👋 Hello, I’m @frankpconnelly
-- 👀 I’m interested in continuing to master HTML, CSS, JavaScript, and React on the frontend, and Node.JS, MongoDB, and Express on the backend. 
-- 🌱 I’m currently proficient in HTML, CSS, and JavaScript, and SQL.
-- 💞️ I’m looking to collaborate on anything and everything! Wanna be my mentor? I'm your guy!
-- 📫 You can reach me at frankpconnelly@gmail.com. 
+Hey there, I'm Frank!
+
+- I'm a full stack software engineer!
+- I like creating web apps with current frameworks and packages.
+- Let's collaborate! Shoot me an email at frankpconnelly@gmail.com. 
 
 <!---
 frankpconnelly/frankpconnelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
